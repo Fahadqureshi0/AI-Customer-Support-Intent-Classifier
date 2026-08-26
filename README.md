@@ -349,16 +349,3 @@ Production systems should include appropriate validation, monitoring, privacy co
 
 ---
 
-## ⭐ If You Like This Project
-
-- ⭐ Star the repository
-- 🍴 Fork the project
-- 🐛 Report issues
-- 💡 Suggest improvements
-- 🚀 Build your own version
-
----
-
-<p align="center">
-  <strong>Built with Python • NLP • TensorFlow/Keras • LSTM • Streamlit 🤖</strong>
-</p>
