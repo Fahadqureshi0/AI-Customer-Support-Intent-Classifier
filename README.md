@@ -349,3 +349,18 @@ Production systems should include appropriate validation, monitoring, privacy co
 
 ---
 
+## 👨‍💻 Author
+
+**Fahad Qureshi**
+
+---
+
+## 🌐 Connect with Me
+
+[GitHub](https://github.com/Fahadqureshi0)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
