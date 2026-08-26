@@ -329,13 +329,6 @@ Potential extensions include:
 
 ---
 
-## ⚠️ Disclaimer
-
-This is an educational AI customer-support prototype. Model confidence does not guarantee that a prediction is correct.
-
-Production systems should include appropriate validation, monitoring, privacy controls, security measures, and human escalation for uncertain or sensitive requests.
-
----
 
 ## 👨‍💻 Project Information
 
