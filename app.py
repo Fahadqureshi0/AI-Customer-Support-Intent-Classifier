@@ -59,13 +59,13 @@ st.markdown("""
 def load_artifacts():
     model = load_model("customer_support_lstm.keras")
 
-    with open("Customer Support Intent Classifier/tokenizer.pkl", "rb") as f:
+    with open("tokenizer.pkl", "rb") as f:
         tokenizer = pickle.load(f)
 
-    with open("Customer Support Intent Classifier/label_encoder.pkl", "rb") as f:
+    with open("label_encoder.pkl", "rb") as f:
         label_encoder = pickle.load(f)
 
-    with open("Customer Support Intent Classifier/responses.pkl", "rb") as f:
+    with open("responses.pkl", "rb") as f:
         responses = pickle.load(f)
 
     return model, tokenizer, label_encoder, responses
